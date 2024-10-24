@@ -1,0 +1,17 @@
+{
+    "name": "Vijaya",
+    "email": "vlkoduri0311@hotmail.com",
+    "addresses": 
+    [
+        {
+            "type": "perm",
+            "addressline1": "West Sussex",
+            "addressline2": "UK"
+        },
+        {
+            "type": "current",
+            "addressline1": "West Sussex",
+            "addressline2": "UK"
+        }
+    ]
+}
